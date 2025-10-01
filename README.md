@@ -31,7 +31,7 @@
 
 ## Contact
 
-You can contact me via [LinkedIn](https://www.linkedin.com/in/elisa-suarezm/) or [email](elisasuarezmoreira@gmail.com).
+You can contact me via [LinkedIn](https://www.linkedin.com/in/elisa-suarezm/) or [email](mailto:elisasuarezmoreira@gmail.com).
 
 <!--
 **eli-suarez845/eli-suarez845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
